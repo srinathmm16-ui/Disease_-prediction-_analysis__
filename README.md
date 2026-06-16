@@ -62,7 +62,7 @@ Healthcare providers often face challenges in identifying high-risk patients ear
 
 🖼 Dashboard Preview
 
-![Dashboard](screenshot.png)
+![Dashboard](screenshot(2).png)
 
 ---
 
